@@ -18,6 +18,7 @@ CCTV-15,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226381/index.m3u8
 CCTV-16,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226315/index.m3u8
 CCTV-16 4K,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226317/index.m3u8
 CCTV-17,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226037/index.m3u8
+CCTV-18,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226037/index.m3u8
 
 卫视频道,#genre#
 云南卫视,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225821/index.m3u8
